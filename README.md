@@ -6,7 +6,7 @@ Full Stack Developer no [Itau Unibanco](https://https://www.itau.com.br/).
 
 Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam". Martin Fowler.
 
-Programadora de Software, com foco em Web, conhecimento em C#, .Net, React, React Native, Javascript, graphQL, Typescript.
+Programadora de Software, com foco em Web, conhecimento em C#, .Net, NodeJS, React, React Native, Javascript, graphQL, Typescript.
 
 - [x] Padrões de Criação
 - [x] Padrões Estruturais
@@ -15,6 +15,18 @@ Programadora de Software, com foco em Web, conhecimento em C#, .Net, React, Reac
 Conhecimentos na cultura e algumas práticas da cultura DevOps. <p>
 Vivência e Experiência na metodologia Ágil. <p>
 
+## 🏆 Conquistas 
+- [x] Aceleração em C# oferecida pela [@Codenation](https://www.codenation.dev/) em Parceria com o [Itau Unibanco](https://https://www.itau.com.br/).
+- [x] Bootcamp GoStack! oferecido pela [@RocketSeat](https://rocketseat.com.br/). 
+- [x] Imersão React oferecida pela [@Alura]( https://www.alura.com.br/).
+- [x] Treinamento Dynamics CRM para Desenvolvedores oferecido pela [@AlfaPeople](https://alfapeople.com/br).
+- [x] Preparatório para Certificação AZ-900 oferecido pela [@IgniçãoTI](https://ignicaoti.com.br/).
+- [x] DevOps Foundation [@Universidade Estabilis](https://www.estabil.is/).
+- [x] AWS na Prática [@Universidade Estabilis](https://www.estabil.is/).
 
 
-
+## 🎓 Formação Acadêmia 
+- [x] Técnologo em Análise e Desenvolvimento de Sistemas <p>
+- [x] Pós Graduação em Gestão da Inovação<p>
+- [] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
+  🚀 De olho no Mestrado!
