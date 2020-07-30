@@ -30,3 +30,10 @@ Vivência e Experiência na metodologia Ágil. <p>
 - [x] Pós Graduação em Gestão da Inovação<p>
 - [ ] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
   🚀 De olho no Mestrado!
+  
+ ## 📚 Livros de Referência 
+ - [x] Refatoração de Martin Fowler
+ - [x] Arquitetura Limpa de Robert C. Martin
+ - [x] Código Limpo de Robert C. Martin
+ - [x] Domain Driven Design de Eric Evans
+ 
