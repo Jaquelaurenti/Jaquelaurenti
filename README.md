@@ -28,5 +28,5 @@ Vivência e Experiência na metodologia Ágil. <p>
 ## 🎓 Formação Acadêmia 
 - [x] Técnologo em Análise e Desenvolvimento de Sistemas <p>
 - [x] Pós Graduação em Gestão da Inovação<p>
-- [] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
+- [ ] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
   🚀 De olho no Mestrado!
