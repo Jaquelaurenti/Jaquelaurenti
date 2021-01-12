@@ -29,7 +29,7 @@ Vivência e Experiência na metodologia Ágil. <p>
 ## 🎓 Formação Acadêmia 
 - [x] Técnologo em Análise e Desenvolvimento de Sistemas <p>
 - [x] Pós Graduação em Gestão da Inovação<p>
-- [x] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
+- [x] MBA em Full Stack Developer Microservices, Cloud & IOT. <p> [@Fiap](https://www.fiap.com.br/mba/mba-em-full-stack-development/).
   🚀 De olho no Mestrado!
   
  ## 📚 Livros de Referência 
