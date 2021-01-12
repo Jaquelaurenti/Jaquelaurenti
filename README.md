@@ -23,12 +23,13 @@ Vivência e Experiência na metodologia Ágil. <p>
 - [x] Preparatório para Certificação AZ-900 oferecido pela [@IgniçãoTI](https://ignicaoti.com.br/).
 - [x] DevOps Foundation [@Universidade Estabilis](https://www.estabil.is/).
 - [x] AWS na Prática [@Universidade Estabilis](https://www.estabil.is/).
+- [ ] AWS Academy Cloud Foundations [@Fiap](https://www.fiap.com.br/shift/curso/tecnologia/aws-academy-cloud-foundations-online).
 
 
 ## 🎓 Formação Acadêmia 
 - [x] Técnologo em Análise e Desenvolvimento de Sistemas <p>
 - [x] Pós Graduação em Gestão da Inovação<p>
-- [ ] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
+- [x] MBA em Full Stack Developer Microservices, Cloud & IOT. <p>
   🚀 De olho no Mestrado!
   
  ## 📚 Livros de Referência 
