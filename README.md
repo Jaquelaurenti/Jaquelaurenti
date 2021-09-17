@@ -1,8 +1,8 @@
 <h2>Jaque Laurenti! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h2>
 
-Full Stack Developer no [Itau Unibanco](https://www.itau.com.br/).
+Full Stack Developer na Midway
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jaque%20Laurenti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/jaque-laurenti-30b15933)](https://www.linkedin.com/in/jaqueline-laurenti-30b15933/) [![Gmail Badge](https://img.shields.io/badge/jaquelineaurenti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquelinelaurenti@gmail.com)](mailto:jaquelinelaurenti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jaque%20Laurenti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jaque-laurenti-30b15933/)](https://www.linkedin.com/in/jaque-laurenti-30b15933/) [![Gmail Badge](https://img.shields.io/badge/jaquelineaurenti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquelinelaurenti@gmail.com)](mailto:jaquelinelaurenti@gmail.com)
 
 Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam". Martin Fowler.
 
@@ -23,7 +23,7 @@ Vivência e Experiência na metodologia Ágil. <p>
 - [x] Preparatório para Certificação AZ-900 oferecido pela [@IgniçãoTI](https://ignicaoti.com.br/).
 - [x] DevOps Foundation [@Universidade Estabilis](https://www.estabil.is/).
 - [x] AWS na Prática [@Universidade Estabilis](https://www.estabil.is/).
-- [ ] AWS Academy Cloud Foundations [@Fiap](https://www.fiap.com.br/shift/curso/tecnologia/aws-academy-cloud-foundations-online).
+- [x] AWS Academy Cloud Foundations [@Fiap](https://www.fiap.com.br/shift/curso/tecnologia/aws-academy-cloud-foundations-online).
 
 
 ## 🎓 Formação Acadêmia 
