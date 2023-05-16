@@ -8,33 +8,8 @@ Qualquer um pode escrever um código que o computador entenda. Bons programadore
 
 Programadora de Software, com foco em Web, conhecimento em C#, .Net, NodeJS, React, React Native, Javascript, graphQL, Typescript.
 
-- [x] Padrões de Criação
-- [x] Padrões Estruturais
-- [x] Padrões Comportamentais
-
-Conhecimentos na cultura e algumas práticas da cultura DevOps. <p>
-Vivência e Experiência na metodologia Ágil. <p>
-
-## 🏆 Conquistas 
-- [x] Aceleração em C# oferecida pela [@Codenation](https://www.codenation.dev/) em Parceria com o [Itau Unibanco](https://https://www.itau.com.br/).
-- [x] Bootcamp GoStack! oferecido pela [@RocketSeat](https://rocketseat.com.br/). 
-- [x] Imersão React oferecida pela [@Alura]( https://www.alura.com.br/).
-- [x] Treinamento Dynamics CRM para Desenvolvedores oferecido pela [@AlfaPeople](https://alfapeople.com/br).
-- [x] Preparatório para Certificação AZ-900 oferecido pela [@IgniçãoTI](https://ignicaoti.com.br/).
-- [x] DevOps Foundation [@Universidade Estabilis](https://www.estabil.is/).
-- [x] AWS na Prática [@Universidade Estabilis](https://www.estabil.is/).
-- [x] AWS Academy Cloud Foundations [@Fiap](https://www.fiap.com.br/shift/curso/tecnologia/aws-academy-cloud-foundations-online).
-
-
-## 🎓 Formação Acadêmia 
-- [x] Técnologo em Análise e Desenvolvimento de Sistemas <p>
-- [x] Pós Graduação em Gestão da Inovação [@BSP](https://bsp.edu.br/mba/cursos/mba-in-innovation-management/). <p>
-- [x] MBA em Full Stack Developer Microservices, Cloud & IOT. [@Fiap](https://www.fiap.com.br/mba/mba-em-full-stack-development/). <p>
-  🚀 De olho no Mestrado!
-  
- ## 📚 Livros de Referência 
- - [x] Refatoração de Martin Fowler
- - [x] Arquitetura Limpa de Robert C. Martin
- - [x] Código Limpo de Robert C. Martin
- - [x] Domain Driven Design de Eric Evans
- 
+<div>
+<a href="https://github.com/jaquelaurenti">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelaurenti&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelaurenti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
