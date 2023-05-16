@@ -6,8 +6,6 @@ full stack developer at @itau
 
 Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam". Martin Fowler.
 
-Programadora de Software, com foco em Web, conhecimento em C#, .Net, NodeJS, React, React Native, Javascript, graphQL, Typescript.
-
 <div>
 <a href="https://github.com/jaquelaurenti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelaurenti&layout=compact&langs_count=7&theme=dracula"/>
